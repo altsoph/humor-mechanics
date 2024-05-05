@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bdac",
+    "text": "My wife and I had a huge argument last week. She called me gullible and financially irresponsible. I can't wait to see the look on her face when I tell her I just won the Nigerian lottery!",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 1.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881c5",
+    "text": "Tell the Punchline first. How do you ruin a joke?",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4e5e01adfd3428bc1b",
+    "text": "I have to give up spreadsheets for forty days. Excellent.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.2,
+    "is_known": 0.0,
+    "funniness": 1.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881b7",
+    "text": "Boobs are like the sun. You can stare at them longer with sunglasses on.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd00",
+    "text": "How do you clean up after a spitroast sex? With 2-in-1 shampoo.",
+    "is_understandable": 1,
+    "is_offensive": 0.8,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4e5e01adfd3428bc12",
+    "text": "My relationship with my girlfriend is quite complex. I'm the real part.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be78",
+    "text": "Why do French tanks have rearview mirrors? So they can see the battlefield.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b495e01adfd3428bb67",
+    "text": "How do you milk sheep? With iPhone accessories.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4c5e01adfd3428bbd3",
+    "text": "Why did Thor lose his lightning powers? Because his father grounded him.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.1999999999999997
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be26",
+    "text": "I've only been in jail for 5 minutes and I've already been raped twice. My uncle doesn't fuck around when playing Monopoly.",
+    "is_understandable": 0.6,
+    "is_offensive": 1,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 1.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba45",
+    "text": "Why is Antman able to enter Thanos’s butt? Because there is no more Asgard.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bdbe",
+    "text": "Want to hear my latest joke about the Fibonacci sequence? It's as good as my previous two Fibonacci sequence jokes put together!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4d5e01adfd3428bbee",
+    "text": "I used to feel like a man who was trapped in a woman’s body. Then I was born.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 4.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7b9b",
+    "text": "If smoking marijuana causes short-term memory loss. What does smoking marijuana do?",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba51",
+    "text": "Thanos' finger snap would have a greater impact if they found a way to make it seem like half the audience disappeared. Apparently only DC movies can do that.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b465e01adfd3428bb0c",
+    "text": "I've just started to read a horror novel in braille. Something bad is gonna happen. I can feel it.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4a5e01adfd3428bb82",
+    "text": "I identify as an elongated fish. People say I'm mentally eel.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7ba6",
+    "text": "I used to play the triangle in a reggae band. But I got bored and quit because it was just one ting after another.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 3.333333333333333
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be88",
+    "text": "What do you call a 3.14m long snake? A πthon.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7b9e",
+    "text": "Top Reddit posters should use their karma to help the environment. They are already experts at recycling.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bce0",
+    "text": "I met a Jewish girl and she asked for my number. I told her we use names here.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.8,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b505e01adfd3428bc5a",
+    "text": "If Prince Zuko worries about about where the avatar is. Does he have Aangxiety?",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be47",
+    "text": "The vagina has more than 8000 nerve endings. But it’s still not nearly as sensitive as Reddit.",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428be13",
+    "text": "I don't like the term 'Anal Bleaching'.  I prefer to call it 'changing my ringtone'.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bcc1",
+    "text": "Did you hear about the monkeys Who shared an Amazon account? They were prime mates.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bcae",
+    "text": "proposed to my ex-wife. But she said no. She believes I’m just after my money.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba41",
+    "text": "I was so bored that I memorized six pages of a dictionary. I learned next to nothing.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4a5e01adfd3428bb79",
+    "text": "Did you hear about the man who was accidentally buried alive? It was a grave mistake.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4f5e01adfd3428bc36",
+    "text": "I don't understand why people are celebrating pi day. It's irrational.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba43",
+    "text": "Why haven't aliens visited our solar system? They looked at the reviews and we only have one star.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba3f",
+    "text": "Why do reddit users hate facebook? Because you need to have friends to be on facebook.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4b5e01adfd3428bba6",
+    "text": "The inventor of the throat lozenge has died. There will be no coffin at his funeral...",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.4,
+    "is_known": 0.4,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b515e01adfd3428bc76",
+    "text": "My ex-wife still misses me. But her aim is steadily improving.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 3.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd65",
+    "text": "I couldn't sleep last night.. .. because I was trying to remember the difference between insomnia and amnesia.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bd9a",
+    "text": "I’m pleased to announce reddit has achieved its goal in becoming one of the top 10 green companies in the world. The front page is now made up of over 90% recycled content.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.6,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bcf3",
+    "text": "What’s the difference between Jesus and a painting of Jesus? It only takes one nail to hang up the painting.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 1.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b555e01adfd3428bd52",
+    "text": "I wanted to marry my English teacher when she got out of jail, but apparently you can't end a sentence with a proposition.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.5999999999999996
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4d5e01adfd3428bbf7",
+    "text": "It’s very rare that a defibrillator fails. But when it happens no one is shocked.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 3
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be45",
+    "text": "With great reflexes... Comes great response ability.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 1.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5b5e01adfd3428bea6",
+    "text": "What's it called when a chameleon can't change its colors anymore? A reptile dysfunction.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd20",
+    "text": "My wife has kicked me out of the house because of my bad Arnold Scharzenegger impressions. But don't worry. I'll return.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd32",
+    "text": "How did Metallica get people to stop pirating their music? They stopped releasing anything worth listening to.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd63",
+    "text": "I’ve got this whiteboard for sale. You’ll love it. It’s remarkable!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.6,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b515e01adfd3428bc7f",
+    "text": "I tell everyone I can about the health benefits of eating dried grapes. It's all about raisin awareness.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b465e01adfd3428bafa",
+    "text": "I was complaining to my wife about our nonexistent sex life. Zero fucks were given.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcd98bb9c9445988249",
+    "text": "Breaking News: Bill Gates has agreed to pay for Trump's wall. On the condition he gets to install windows.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7ba4",
+    "text": "I finally got someone to be my valentine!  I wish I could post this in any other sub.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4c5e01adfd3428bbb8",
+    "text": "My neighbour banged on my door yesterday asking if I'd seen who stole her laundry off her line. I got such a fright I almost wet her panties.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4c5e01adfd3428bbc1",
+    "text": "Maybe if we all emailed the Constitution to each other…, …the NSA will finally read it.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcc98bb9c944598822e",
+    "text": "Two termites walk into a bar and ask. Is the bar tender here?",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcd98bb9c9445988252",
+    "text": "I didn't vaccinate my five kids, and both of them turned out fine.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.2,
+    "is_known": 0.0,
+    "funniness": 1.2000000000000002
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba4d",
+    "text": "I relabeled all the jars in my mom's spice rack. I'm not in trouble yet but the thyme is cumin.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 1.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bda9",
+    "text": "Today one of my friends told me I often make people uncomfortable by violating their personal space. It was an incredibly hurtful thing to say and it completely ruined our bath.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd76",
+    "text": "The use of a colon can really change the intended meaning of a sentence. Jimmy went to school and ate his lunchbecomesJimmy went to school and ate his colon.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881bf",
+    "text": "Imagine if Americans switched from pounds to kilograms overnight... There would be mass confusion.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428be03",
+    "text": "Orgasms are like opinions. Mine is more important and I don't care if she has one.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bcbf",
+    "text": "It all. The title says it all.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.2,
+    "is_known": 0.0,
+    "funniness": 1.6666666666666665
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b475e01adfd3428bb31",
+    "text": "I finally got someone to be my valentine! I wish I could post this in any other sub.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4a5e01adfd3428bb8b",
+    "text": "My favorite sex position is called WOW. It’s where I flip your MOM over.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b495e01adfd3428bb70",
+    "text": "Why was 10 traumatized? Because it was in the middle of 9/11.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b475e01adfd3428bb15",
+    "text": "Have you seen the new Exorcist movie? This time it’s the devil trying to get the priest out of the child.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881b9",
+    "text": "How do you know when a Reddit user has left their hotel? Their username checks out.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881bb",
+    "text": "My parrot got so fat that it died. It's a huge weight off my shoulder.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd85",
+    "text": "Roy Moore Election results are coming in. He is only in the teens.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 1.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be57",
+    "text": "I've just discovered that I have a logic fetish. I can't stop coming to conclusions.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dce98bb9c944598825b",
+    "text": "If you ever miss 4:20 just wait untill 4:22 because... 4:22 is 4:20 too.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7ba8",
+    "text": "EA walks into a bar. Unlock the punchline for $9.99.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b475e01adfd3428bb28",
+    "text": "I scared the postman today by going to the door completely naked…. I’m not sure what freaked him out more – my naked body or the fact that I knew where he lived.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7b99",
+    "text": "The Italian government has decided to put a big clock similar to Big Ben in the leaning tower of Piza. Now they’ll have the time as well as the inclination.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b505e01adfd3428bc3f",
+    "text": "What do Bruce Lee and the Donkey from Shrek have in common? They have both entered the dragon.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.1999999999999997
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bcf0",
+    "text": "Science builds planes and skyscrapers, but faith brings them together.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be35",
+    "text": "My girlfriend is a pornstar. She is going to be very pissed when she finds out.",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.4,
+    "is_known": 0.4,
+    "funniness": 1.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b485e01adfd3428bb55",
+    "text": "My wife said if this post gets 1000 upvotes she'll give up her anal virginity tonight! Please don't. She's out of town on business until Tuesday.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881c1",
+    "text": "I love dry erase boards. They're remarkable.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.2,
+    "is_known": 0.0,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bdd0",
+    "text": "Why did the console player cross the road? To render the buildings on the other side.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be76",
+    "text": "I don't know why most people think a dogs life is so easy. Everytime I come home from work I ask my dog how his day went and he always says rough.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7ba0",
+    "text": "I am giving up drinking alcohol for the month of February. edit: I am giving up. Drinking alcohol for the month of February.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd10",
+    "text": "What's more Irish than potatoes? No potatoes.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4e5e01adfd3428bc00",
+    "text": "My wife apologised for the first time today. She said she was sorry she ever married me.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428be01",
+    "text": "I don't know what the big deal is about Black Friday. All Fridays matter.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b485e01adfd3428bb3a",
+    "text": "I wonder what my parents did to fight boredom before the internet... I asked my 18 brothers and sisters and they don't know either.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b485e01adfd3428bb4c",
+    "text": "My friends laughed at me when I told them I had a hot date and they said she was imaginary... Well the jokes on them – they’re imaginary too...",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428bddf",
+    "text": "I've been dating this homeless chick for a while now and it's starting to get serious. She asked me to move out with her.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcb98bb9c944598820a",
+    "text": "I Got my girlfriend a “get better soon” card. She’s not ill or anything but she could definitely get better.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be37",
+    "text": "I was going to post a time travel joke.. But you guys didn't like it.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4b5e01adfd3428bb9d",
+    "text": "Siri kept on calling me Shirley today. I was beginning to get annoyed about it but then I realised I'd left my phone in Airplane mode.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 1.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7b97",
+    "text": "A lion would never drive while drunk. But a tiger wood.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b595e01adfd3428be23",
+    "text": "My wife walked out on me after I blew our life savings on a penis extension. She said she just can't take it any longer.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bce2",
+    "text": "I received a flyer on anger management the other day. I lost it.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bdcd",
+    "text": "I went to a beautiful wedding this weekend. It was so emotional. Even the cake was in tiers.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.1999999999999997
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b485e01adfd3428bb43",
+    "text": "My grandpa started walking five miles a day when he was 60...  Now he's 97 years old and we have no idea where the hell he is.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5b5e01adfd3428be96",
+    "text": "I ordered a chicken and an egg from Amazon today. I'll let you know.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4b5e01adfd3428bbaf",
+    "text": "Her: Let's exchange numbers. Me: Won't that confuse people who are trying to call us?",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.1999999999999997
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bc9f",
+    "text": "A man with authority walks into a bar.. He orders everyone a round.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba47",
+    "text": "Men's brains. My girlfriend told me that Men's brains are all in their penises. I told her that I like it when she blows my mind.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.8,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bcd2",
+    "text": "First thing men look into a women is her heart. That her breasts are in the way is not our fault.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b555e01adfd3428bd41",
+    "text": "Condom expiration dates are a little misleading, because I get sick no matter when I eat them.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcd98bb9c9445988240",
+    "text": "Why didn't Barbie have a baby? Because Ken came in a different box.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcb98bb9c9445988201",
+    "text": "Recently got a second job as a bartender at a stripclub. Ive never worked so hard before in my life.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b505e01adfd3428bc51",
+    "text": "I bought a theremin. But I haven’t touched it in years. I’m sorry to anyone who gets it.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be66",
+    "text": "If I had a $ for every post I've seen today about Net Neutrality... I'd have enough money to view a post next year about Net Neutrality.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be55",
+    "text": "Russia started a new website that tracks down and deletes pirated movies. Nyetflix.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 1.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b475e01adfd3428bb1e",
+    "text": "How do you milk sheep? Bring out a new iPhone and charge $1000 for it.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b515e01adfd3428bc6c",
+    "text": "My girlfriend told me to take the spider out instead of killing it. We went and had some drinks. Cool guy. Wants to be a web developer.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4f5e01adfd3428bc2d",
+    "text": "I downloaded all the music to the movie Titanic. It's syncing now.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b535e01adfd3428bcd0",
+    "text": "If Hillary Clinton and Donald Trump are in a boat and it capsizes. Who survives? America.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b455e01adfd3428bae8",
+    "text": "What’s the difference between a politician and a flying pig? The letter F.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5b5e01adfd3428be99",
+    "text": "I applied to be a sperm donor and the nurse asked if I could masturbate in the cup... I told her i'm pretty good but I don't think i'm ready to compete in a tournament yet.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bcb0",
+    "text": "My doctor wrote me a prescription for daily sex. My girlfriend insists it says dyslexia.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4c5e01adfd3428bbca",
+    "text": "New Teslas don't come with a new car smell. They come with an Elon Musk.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 1.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bc9d",
+    "text": "I have a fear of over-designed buildings. I have a complex complex complex.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.2,
+    "is_known": 0.0,
+    "funniness": 1.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881c9",
+    "text": "My girlfriend dressed up as a policewoman and told me I was under arrest on suspicion of being good in bed. After 1 minute all charges were dropped due to a lack of evidence.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 4.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428bde1",
+    "text": "Calm down about the Net Neutrality thing... Paying additional money to access certain sites will give you a sense of pride and accomplishment.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5b5e01adfd3428bea8",
+    "text": "What's the difference between Jesus and a picture of Jesus? You only need one nail to hang the picture up.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bc8d",
+    "text": "I asked my mom if by any chance i was adopted ? She said - why would we choose you..",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba4f",
+    "text": "How many D&amp;D players does it take to change a light bulb? All of them. Never split the party.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd12",
+    "text": "My girlfriend broke up with me so I stole her wheelchair. Guess who came crawling back to me.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcc98bb9c9445988237",
+    "text": "I really got in touch with my inner self today. I should probably start buying thicker toilet paper.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.8,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428bdf2",
+    "text": "Remember when plastic surgery was a taboo subject? Now you mention Botox and nobody raises an eyebrow.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428be11",
+    "text": "For anyone attending Stan Lee's funeral... Make sure you stay after the ceremony is finished.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcb98bb9c9445988213",
+    "text": "I left my ex-girlfriend because of her obsession with counting... I wonder what she's up to now?",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dce98bb9c944598826d",
+    "text": "I can count on one hand how many times I have been to Chernobyl. It's 14.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4d5e01adfd3428bbdc",
+    "text": "I was fired from the keyboard factory today. I wasn't putting in enough shifts.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba49",
+    "text": "I finally realized my parents favored my twin brother. It hit me when they asked me to blow up balloons for his surprise birthday party.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881c7",
+    "text": "Iron Man is a very confusing character. I know he’s a guy but he could’ve been Fe Male.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dce98bb9c9445988264",
+    "text": "What do you get when you cross a cow with an octopus? A visit from the ethics committee and an immediate withdrawl of your funding.",
+    "is_understandable": 0.2,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.4,
+    "funniness": 1.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcc98bb9c9445988225",
+    "text": "My boss is threatening to fire the employee with the worst posture. I have a hunch it might be me.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd73",
+    "text": "A guy with flame tattoo sleeves walks into a building and gets stopped by security. The security guard tells the guy there are no firearms allowed.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b515e01adfd3428bc63",
+    "text": "Just spent $300 on a limousine and discovered that the fee doesn't include a driver. Can't believe I've spent all that money and I have nothing to chauffeur it...",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be86",
+    "text": "If someone stole a Tesla. Would it be called an Edison?",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b525e01adfd3428bc8f",
+    "text": "My friend Dave drowned. At his funeral we got him a wreath in the shape of a lifebuoy. It’s what he would’ve wanted.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.8,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b575e01adfd3428bdbb",
+    "text": "My boyfriend keeps talking about overthrowing capitalism in a violent revolution. Could this be a red flag?",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dcc98bb9c944598821c",
+    "text": "If A is for Apple and B is for Banana then what is C for? Plastic Explosives.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.3333333333333335
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd97",
+    "text": "What’s the difference between outlaws and in-laws ? Outlaws are wanted.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b565e01adfd3428bd88",
+    "text": "I read a joke about Oedipus and Midas. It was motherfucking gold.",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7baa",
+    "text": "Do you ever just wake up and kiss the person sleeping beside you and feel glad that you are alive? I just did and apparently I'm not allowed on this airline anymore...",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b505e01adfd3428bc48",
+    "text": "What's the difference between me and Jimmy Fallon? I can get through a Jimmy Fallon sketch without laughing.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881c3",
+    "text": "My dad has a pencil that was once owned by Shakespeare. It's so chewed up that we can't tell if it's 2b or not 2b.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b555e01adfd3428bd54",
+    "text": "My teacher didn't believe me when I said I had 36 pets so I showed her a picture of my fish tank. She freaked out when she saw how many dogs I could fit in there.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b585e01adfd3428bdf0",
+    "text": "What's it called when a King and Queen have no children? A receding heir line...",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5a5e01adfd3428be68",
+    "text": "My sister asked for me to bring her something hard to write on. I don't know why she became so mad. It's pretty fucking hard to write on sand.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4e5e01adfd3428bc09",
+    "text": "If I had a Delorean. I would probably only drive it from time to time.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd30",
+    "text": "How does a computer get drunk? It takes screen shots.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8dca98bb9c94459881f8",
+    "text": "My girlfriend's father called me a pedophile just because she's 22 and I'm 36. Completely ruined our 10-year anniversary.",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.4,
+    "is_known": 0.0,
+    "funniness": 1
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4a5e01adfd3428bb94",
+    "text": "My wife just accused me of having zero empathy. I just don’t understand why she feels that way.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8c4f98bb9c94459881bd",
+    "text": "I bought a toilet brush since I saw one in pretty much everyone's bathroom... but after giving it a try for a week I decided to go back to using toilet paper.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b465e01adfd3428bb03",
+    "text": "I’ve developed a fetish for figuring things out. I just came to that realization.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 1.2000000000000002
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4f5e01adfd3428bc24",
+    "text": "I made a joke about net neutrality. Americans didn't get it.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd22",
+    "text": "My therapist told me that I have trouble interpreting social cues. I think she wants to have sex with me.",
+    "is_understandable": 1,
+    "is_offensive": 1,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 1.25
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b465e01adfd3428baf1",
+    "text": "The cost of living has gotten so high that my wife began having sex with me again, so she wouldn't have to buy batteries.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b555e01adfd3428bd43",
+    "text": "How do you seduce a farm girl? A tractor.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b545e01adfd3428bd02",
+    "text": "I called a suicide hotline in Iraq.. They got excited and asked if I could drive a truck.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.4,
+    "is_known": 0.4,
+    "funniness": 1.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df89c45e01adfd3428ba4b",
+    "text": "What's the most sensitive part of a man's body during masturbation? His ears.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b5c49554d96c87e7ba2",
+    "text": "My dad showed me a 30 minute PowerPoint presentation on why one should always wear a condom during sex. All the slides were just pictures of me.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.8,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b495e01adfd3428bb5e",
+    "text": "My drug test came back negative,  My dealer sure has some explaining to do..",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 3.5
+  },
+  {
+    "id": "65df89b61e57d3295448c804:65df8b4d5e01adfd3428bbe5",
+    "text": "A little boy asks grandpa to make a noise like a frog. Grandpa asks why? Because mummy said the moment you croak is when we're all going to Disneyland!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.25
+  }
+]

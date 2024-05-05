@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9592f",
+    "text": "I went bowling with a geologist; he was great at striking, but only when he found the perfect rock.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9592d",
+    "text": "I told my friend I was watching \"Spencer's Big 30\" for cooking tips, but really, I just like to pretend I can make a gourmet meal in half an hour.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d95810",
+    "text": "My mirror took a selfie and now it's having an identity crisis on social media.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9592b",
+    "text": "I bought a Spencer microscope, but it's so formal, every time I use it, it insists I call it \"Sir Microscope.\"",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9590d",
+    "text": "The Spanish Armada was invincible, until the British weather unfriended them.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d95912",
+    "text": "I tried to write a love letter in Spencerian script, but it was so elegant, the letter left me for someone with better penmanship.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14342642d28c8d9576b",
+    "text": "I installed a new security system, but it just stole my identity and now it's living a better life than me.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9590a",
+    "text": "I watched La Liga football, but the only goals I saw were in the commercials.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958c7",
+    "text": "My blender staged a kitchen revolution and now my smoothies are demanding independence.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958ea",
+    "text": "I got a silk handkerchief and now my sneezes have a touch of class.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.5999999999999996
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958e2",
+    "text": "I fell for an insurance scam once; they promised coverage against alien abductions, and now I'm out of this world in debt.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d9583c",
+    "text": "I heard Spider-Man tried to join the console wars, but he couldn't because he's exclusive to PlayStation.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d95906",
+    "text": "I went to a tapas bar and the menu was just \"small talk.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958e0",
+    "text": "I asked for a silk blouse, and the salesperson said, \"Will that be on your Visa or MasterCard?\" I said, \"No, on my mulberry leaves.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d95880",
+    "text": "My printer's favorite holiday must be Jam-uary, considering how often it celebrates.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d9589a",
+    "text": "I bought some reef-safe sunscreen, but now my phone won't stop asking if I'm a coral.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d95908",
+    "text": "Silk stockings are great until you realize your legs are smoother than your dating life.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958de",
+    "text": "My political ploy to gain popularity was to promise everyone a unicorn – now I'm the leading candidate in Narnia.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958c9",
+    "text": "My evil genius plan to take over the world was foiled when I realized it was just the plot of a Pinky and the Brain episode.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.5999999999999996
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14b42642d28c8d958cc",
+    "text": "I tried to start a counter-culture in my kitchen, but the countertops just weren't that rebellious.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d958b2",
+    "text": "I bought an antique chair that promised to \"support me through anything,\" but after one sit, it's the chair that needs support.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d95898",
+    "text": "I went to a health retreat to recuperate, but the only thing that got better was the staff's mood when I left.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d9583a",
+    "text": "Virtual Reality on PlayStation is so immersive, I tried to shake hands with my character and ended up high-fiving my TV.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d958b5",
+    "text": "My car's idea of a \"classic restoration\" was playing 80's hits on the radio while breaking down.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d95823",
+    "text": "I broke a mirror and got seven years of bad luck, but my lawyer thinks he can get me five with good behavior.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d95882",
+    "text": "I bought a 3D printer and it only prints 3D printers; it's like I've opened Pandora's box, but with tech support.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 2.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d9580b",
+    "text": "I visited the Galleria Vittorio Emanuele II, but my credit card left me there for a richer owner.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d9586d",
+    "text": "I asked my printer to print me a self-help book, but it just printed an error page – I guess it's the thought that counts.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d957f5",
+    "text": "My retirement plan is to buy fine wine and forget where I put it, that way I'll have a treasure hunt when I'm 65.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d9586b",
+    "text": "I was at a crossroads in my life, but I took a wrong turn and ended up at a roundabout.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d9589c",
+    "text": "They say the Great Barrier Reef can be seen from space, but so can my sunburn.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d95827",
+    "text": "I tried to organize a console war at home, but the PlayStation just sat there and said, \"I'm not competitive, I'm just game.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14842642d28c8d95856",
+    "text": "I bought a burial plot, but it's the last thing I'll ever need.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d9583e",
+    "text": "I told my garden plot I needed some space, and now it's growing apart.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.1999999999999997
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14842642d28c8d95853",
+    "text": "My subplot got promoted; now it's just the plot.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d95884",
+    "text": "I told my friend I could hold my breath for the entire scuba dive; turns out I was just blowing bubbles.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957cd",
+    "text": "I lowered the brightness on my phone to save battery, but now it just gives me compliments in a dim way.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14742642d28c8d95825",
+    "text": "I dropped my mirror and it shattered into a funhouse version; now I look like I'm in a permanent yoga pose.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14a42642d28c8d958b0",
+    "text": "My smartwatch is so revolutionary, it started counting steps towards social reform instead of calories.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14942642d28c8d95869",
+    "text": "I opened Pandora's box and found out it was just a metaphor for my wife's jewelry cabinet.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14842642d28c8d95851",
+    "text": "Schrödinger's cat applied for a job; its resume said both employed and unemployed until you open the work history.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 1.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d9580e",
+    "text": "I tried to get into the Milanese aperitivo scene, but my drink told me I wasn't its type.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957b4",
+    "text": "Katie's Cupcakes are so exclusive, they have a bouncer outside the bakery checking your sweet tooth credentials.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957c8",
+    "text": "Katie's Pizza is so authentic, the pepperoni slices have Italian accents.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d957f8",
+    "text": "I read Milan Kundera in Milan; it was an unbearable lightness of being in the right place.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d957db",
+    "text": "I lowered the platform during my speech and turned it into a step class for the audience.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957af",
+    "text": "They say everyone has a twin, so somewhere there's an Average José doing extraordinary things.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957b1",
+    "text": "\"Katie's Choice\" was a tough book to read, mainly because she chose to read it out loud on a six-hour flight.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d957dd",
+    "text": "I told my cheese it was mature, and now it won't stop giving me sage advice.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d95781",
+    "text": "I was so excited to get a golden ticket invitation, but it turned out to be just a flyer for a local chocolate shop's grand opening.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.75
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14642642d28c8d957e6",
+    "text": "I asked for a senior discount at the movies, but they gave me a plot summary instead, saying I might forget the story halfway through.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13d42642d28c8d956b0",
+    "text": "I tried to explain continental drift to my friend, but it just drove us apart.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d95799",
+    "text": "I asked my friend José to play hide and seek, but he went to San José and I'm still counting.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13f42642d28c8d956f0",
+    "text": "My IoT toaster just got a firmware update, now it burns the weather forecast into my bread.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d95783",
+    "text": "I installed a new app to organize my life, but it just sends me notifications to reminisce about how unorganized I was before.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d9579b",
+    "text": "\"No Way José\" is what I say when someone asks if I've ever done a tequila shot with José Mourinho.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.6,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14542642d28c8d957c6",
+    "text": "I lowered myself to tie my shoe and found myself in a limbo competition.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959ad",
+    "text": "I bought a boomerang from my childhood nostalgia store, but I think they scammed me – it never brought back the good old days.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95737",
+    "text": "I gave my heart to organ donation; they said they'd rather have my kidneys.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14342642d28c8d9575e",
+    "text": "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d95797",
+    "text": "I received a wedding invitation in calligraphy so elegant, I'm not sure if it's a party request or a fancy ransom note.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 3.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959af",
+    "text": "I played a board game so long, we had to take a recess – even the Monopoly man needed a break from capitalism.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.1999999999999997
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95722",
+    "text": "I told my yoga instructor I wanted to learn gentle exercises, and now I'm an expert at the downward-facing couch potato.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.75
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14442642d28c8d9577e",
+    "text": "A baby shower game where you match the cry to the baby? It's all fun and games until you realize it's just training for the real thing.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14142642d28c8d95701",
+    "text": "I tried to learn the ABCs of environmentalism, but I got stuck at C for \"climate change is complicated.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14142642d28c8d956fe",
+    "text": "I learned the basics of computer science, now I tell my friends I'm fluent in binary: yes, no, and maybe.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14342642d28c8d95760",
+    "text": "Installed a new operating system and now my computer insists it's too evolved to open my emails.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13e42642d28c8d956cb",
+    "text": "My internet is so slow, my download speed is measured in \"pages per hour.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95743",
+    "text": "I told my cardiologist I had a broken heart; she prescribed ice cream, but my lactose intolerance wasn't amused.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959b4",
+    "text": "I tried a prank call about a refrigerator running; turns out, I accidentally called a gym and they signed me up for a marathon.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14342642d28c8d9575a",
+    "text": "My friend's bakery burned down last night. Now his business is toast.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959cf",
+    "text": "I'm all for recycling relationships, but my ex just keeps turning up in the bin of my life.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95989",
+    "text": "I went to a historical reenactment and the only accurate thing was everyone's confusion about what was going on.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14142642d28c8d95713",
+    "text": "They say a soft touch can calm the wildest beast; my cat must be the exception that proves the rule.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.75
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95734",
+    "text": "I wore my heart on my sleeve once; it was the messiest breakup ever.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959b2",
+    "text": "For April Fool's Day, I replaced my twin's toothpaste with cream cheese; the joke's on me, he loved it.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959ab",
+    "text": "I told my friend I was an escape artist; he locked me out of my car to prove it.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13f42642d28c8d956de",
+    "text": "My device driver went on strike; it wanted better hardware compatibility and less overtime.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959d2",
+    "text": "I told my friend pollution is a serious issue, and he said, \"Yeah, it's a breath of fresh air.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13f42642d28c8d956e7",
+    "text": "I asked my router to tell me its life story, but it just kept going on about its firmware updates.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d9598b",
+    "text": "I told my teddy bear my secrets, and now he's unbearable – he keeps spilling the beans at tea parties.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95749",
+    "text": "I'm reading a book on anti-gravity. It's impossible to put down!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14242642d28c8d95725",
+    "text": "I bought a feather pillow, but it's not working out; it keeps trying to fly south for the winter.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13e42642d28c8d956c2",
+    "text": "I downloaded a PDF on procrastination; I'll figure out how to open it tomorrow.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14e42642d28c8d959d5",
+    "text": "Littering is a real problem; I saw a raccoon with a resume looking for a cleaner neighborhood.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14142642d28c8d95710",
+    "text": "In fundamental mathematics, they say prime numbers are key, but try unlocking a door with a 3 or a 7.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13e42642d28c8d956b9",
+    "text": "I asked a cell to tell me about its life, but it just split.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13c42642d28c8d9569e",
+    "text": "The crown prince was also a dentist, which makes sense because he's next in line for the throne and the molars.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947f1",
+    "text": "I bought a dental crown for my tooth, but now it thinks it's the king of my mouth.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13d42642d28c8d956a7",
+    "text": "Time zones are great – they're like chronological divorce lawyers, always separating hours.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b13e42642d28c8d956d5",
+    "text": "I started using a torrent to download my thoughts, but I keep getting someone else's dreams.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.5999999999999996
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947e8",
+    "text": "Cryptocurrency is great – it's like playing Monopoly money, but with the added thrill of occasional real-world bankruptcy.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947e6",
+    "text": "I bought a boomerang on eBay, and now I can't stop getting second chances to bid.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.75
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947ed",
+    "text": "I asked my AI for a bedtime story, and it said, \"Once upon a time... End of story, due to a privacy policy update.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947ea",
+    "text": "The Turing Test is really just a fancy way of finding out if your computer can pretend to be your friend.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947ef",
+    "text": "The chess king lost his crown, but it's okay, he never moved much anyway.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947e0",
+    "text": "I became a catalyst for change in my office when I switched the coffee to decaf; productivity has never been lower.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac9d",
+    "text": "My neighbor's so into antique hoarding, he just bought a dinosaur bone – now he's got a T-Rex on his tax returns.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95962",
+    "text": "Ancient Roman baths were so well-tiled, historians say they were the original splash screens.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947e2",
+    "text": "They say I'm an enabler for my cat's bad behavior, but really, I'm just his purr-sonal assistant.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947e4",
+    "text": "My friend's a professional agitator; he works at the laundromat stirring up the washing machines.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0afd242642d28c8d947de",
+    "text": "I lost a bid for ad space on a billboard, so I just wrote my message on the back—it's free real estate.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d9595f",
+    "text": "My therapist diagnosed me with \"chronic indecisiveness\" from the DSM, but now I can't decide if I agree.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d95931",
+    "text": "I asked the military for a precise time, they said they only deal in striking hours.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359aca1",
+    "text": "The navy called themselves the armed forces, but I didn't sea any guns.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14c42642d28c8d9593a",
+    "text": "My friend's on a hunger strike; he's trying to eat lightning and become shockingly thin.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95981",
+    "text": "I dropped a chessboard on my kitchen floor and now I can't tell if I'm a terrible cook or just in checkmate.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac9b",
+    "text": "I made a bid for some antique dust, but I was told it was too much of a collector's item.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95984",
+    "text": "My memory lane is more like a roundabout – I keep revisiting the same mistakes over and over again.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.8
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95958",
+    "text": "My therapist got burnout, so now we just roast marshmallows and call it \"fire therapy.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d9595b",
+    "text": "Every time I tell my therapist how I feel, she says, \"Sorry, I wasn't listening. Can you repeat that?\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.25
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d9595d",
+    "text": "I told my friend I was getting into mosaic art, but he just couldn't piece together why.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 1.6
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0b14d42642d28c8d95986",
+    "text": "I tried to make a belt out of watches, but it was a waist of time.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac99",
+    "text": "I nodded so much during the meeting, I got a job offer as a bobblehead.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 3.2
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac97",
+    "text": "I tried to surrender to my diet, but my hands were tied... around a donut.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359aca8",
+    "text": "I'm so open to accepting change, my pockets are full of it—too bad it's not enough for laundry.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359aca5",
+    "text": "I told my wife I was good at Monopoly, but after our wedding, she realized I was just great at acquiring a trophy spouse.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359aca3",
+    "text": "The police officer got an award for being outstanding in his field – too bad it was a cornfield.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 3.9999999999999996
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac95",
+    "text": "I tried to play a game of Monopoly with venture capitalists, but they turned the board into a pitch deck.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.5
+  },
+  {
+    "id": "65e0af1cf175b96ab98dfa4f:65e0af1cbf444e56e359ac9f",
+    "text": "The arms dealer started selling prosthetic limbs, now he's really branching out.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.5
+  }
+]

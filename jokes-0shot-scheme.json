@@ -1,0 +1,902 @@
+[
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e62",
+    "text": "Why did the scarecrow accept the job offer? Because it was outstanding in its field.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00f16",
+    "text": "What do you call a dinosaur that can print in 3D? A Printasaurus Rex!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e2d",
+    "text": "Why was the timeline so productive? Because it was always ahead of its time!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f4f",
+    "text": "What's the difference between a pirate and a corporate raider? One says \"Arrr!\" and the other says \"Shares!\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00de2",
+    "text": "What's a pirate's favorite piece of artillery? The arrrrrr-m cannon!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d6c",
+    "text": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.5999999999999996
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d68",
+    "text": "Why was the PlayStation always picked first in gym class? Because it had the best controller!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00deb",
+    "text": "Why did the division problem look so confused? Because it didn't know if it should feel divided or just remain remainder.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e92",
+    "text": "Why did the software developer go broke? Because he used up all his cache installing expensive programs!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f32",
+    "text": "Why don't secrets ever get sold at auctions? Because as soon as you bid on them, they're no longer priceless.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e7d",
+    "text": "I went to an auction where they were selling a broken barometer. It was a no-pressure situation.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00ff1",
+    "text": "What did the crown say to the scepter? \"You complete me!\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00ddc",
+    "text": "Why did the photon break up with the electron? It was tired of being in a relationship with so much negativity.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0100f",
+    "text": "How do you organize a space party? You planet with Star Wars action figures!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b14b62cdb59af00db3",
+    "text": "You know you're mature when you attend a candle party and you're excited it's not because there's a blackout.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.6,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00ecf",
+    "text": "Why was the computer so proud of itself? Because it just downloaded a self-esteem booster pack!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00fad",
+    "text": "Why did the vampire invest in acquisitions? He was looking for some new blood in the business!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e4d",
+    "text": "I bought a plot in a cemetery, but that's the last thing I need.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fcd",
+    "text": "Why doesn't Spencer play hide and seek with his friends? Because good Spencers are hard to find!",
+    "is_understandable": 0.4,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00f8e",
+    "text": "What do you call a dinosaur toy that never stops talking? A Dino-blabber!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fcb",
+    "text": "Why was the heart a terrible gossip? It couldn't keep anything to itself and always spilled the blood.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6666666666666665
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e94",
+    "text": "Why did the Spanish pepper put on a sweater? Because it was a little chili.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00eb2",
+    "text": "I broke up with my timeline. It was too clingy, always talking about what we did at 3:02 PM last Tuesday.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00ef5",
+    "text": "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d60",
+    "text": "Why did the silk scarf break up with the wool sweater? It was tired of being in such a clingy relationship.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f74",
+    "text": "What's a ghost's favorite trick? A boo-lean operation!",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.2,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e64",
+    "text": "What did the fundamental particle say at the bar? \"I'll have a quantum of your finest energy, please. And keep the change!\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00f10",
+    "text": "Why did the big company go on a shopping spree? Because it heard acquisitions were on sale вЂ“ buy one, get one free!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.2,
+    "is_known": 0.4,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00e0f",
+    "text": "I asked my therapist how to deal with my obsession with vengeance. He said, \"Let's not get even; let's get odd.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.8,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00ef2",
+    "text": "Why don't you ever see puzzles in the wild? Because they always end up in pieces at home!",
+    "is_understandable": 0.6,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d6a",
+    "text": "Why don't people play hide and seek in Milan? Because good luck hiding when everyone's dressed to stand out!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b14b62cdb59af00d9a",
+    "text": "Why did Spencer break up with his calendar girlfriend? He felt she was dating too many days at once!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0100b",
+    "text": "Why don't possibilities ever get lonely? Because there's always potential for more!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f30",
+    "text": "What's a printer's favorite meal? Spaghetti with a side of paper clips вЂ“ it's the perfect feed!",
+    "is_understandable": 0.4,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f56",
+    "text": "Why did the tomato turn red? Because it saw the salad dressing and felt a little lower on the garden hierarchy.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00f90",
+    "text": "Why did Spencer bring a ladder to the bar? He heard the drinks were on the house!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fef",
+    "text": "What did the vampire say to the mirror? \"I can't see what's wrong with me.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00dcd",
+    "text": "What's Spencer's favorite exercise? Running late.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fd2",
+    "text": "Why did the recycling bin break up with the trash can? It got tired of dealing with someone else's waste all the time!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e2f",
+    "text": "Why don't secrets stay secret when you tell them to silk? Because it always lets things slip.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00fb4",
+    "text": "I asked the elevator why it was so good at its job. It said, \"I've really taken things to a lower level.\"",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e60",
+    "text": "How does Katie make her computer so smart? She gives it a daily dose of \"Katie-bytes\"!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.4
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df60404b62cdb59af00d74",
+    "text": "I received an invitation to a claustrophobic's convention, but I'm not going. I heard the space is pretty tight.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00ed3",
+    "text": "What did Jose say when he won the lottery? \"No way, Jose!\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e90",
+    "text": "Why was the fundamental particle always calm? Because it knew that in every situation, it could just quantum leap away.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00ed1",
+    "text": "Why did the gamer break up with his PlayStation? Because it was too possessive; it kept saying \"This is for players only.\"",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00dc3",
+    "text": "Why did the comedian get kicked out of the auction? Because every time someone made a bid, he said, \"I'll throw in my two cents,\" and it just didn't add up.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af0104a",
+    "text": "How do you know when a merger is secretive? Even the pens they sign the deal with are under non-disclosure agreements!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f34",
+    "text": "I accepted that I'll never be good at origami, but that's okay. It's a fold I'm willing to leave unturned.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00e00",
+    "text": "You know you're mature when your back goes out more than you do.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df60404b62cdb59af00d71",
+    "text": "I tried to play hide and seek with my silk scarf, but it was sheer madness; it could never blend in!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f36",
+    "text": "Why did the computer get sick after downloading all those files? It caught a virus, now it's in bed with a bad case of data congestion.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00faf",
+    "text": "Why did the cat come up with a scheme? To get the purr-fect opportunity to nap all day.",
+    "is_understandable": 0.6,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6666666666666665
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00eb4",
+    "text": "I told my friend I updated my camera's firmware. He said, \"Wow, that's really exciting!\" I could tell he was being sarcastic, or maybe he just needed an empathy firmware upgrade.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 1.2000000000000002
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f51",
+    "text": "At what age is it appropriate to tell my dog that he's adopted? I think he's mature enough; he's already 42 in dog years.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0102f",
+    "text": "Why did Jose refuse to play hide and seek? Because good luck hiding when everyone keeps shouting \"Jose, can you see?\"",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00f13",
+    "text": "I asked the artist if he could restore my old painting. He said he could, but it would cost me an \"arm and a leg.\" I guess that's why the Mona Lisa is just a portrait.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d66",
+    "text": "Why was the possibility afraid of commitment? Because it didn't want to become a probability!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00e11",
+    "text": "Why don't secrets work in a bank? Because there are too many tellers!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00df9",
+    "text": "Why did the plot refuse to start at the beginning? It didn't want to be too predictable.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0100d",
+    "text": "Why don't crowns use paper? Because they always rule the lines!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e7a",
+    "text": "Why did the computer get a virus after installing new software? Because it didn't believe in antivirus shots.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b14b62cdb59af00da6",
+    "text": "Why did the bullet end up losing his job? Because he got fired!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.5999999999999996
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00df7",
+    "text": "Why was the bell so good at boxing? Because it knew exactly when to strike!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fed",
+    "text": "What do you call a crown that's a comedian? The \"ruler\" of punchlines!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0102a",
+    "text": "Why did the crown go to school? Because it wanted to improve its \"reign\" of knowledge!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f72",
+    "text": "Why did the soccer team go to Milan? Because they heard there was a great \"goal\" of fashion there, and they wanted to score some style points!",
+    "is_understandable": 1,
+    "is_offensive": 0.6,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af01028",
+    "text": "What do you call Spencer when he's holding a map? Lost.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00f94",
+    "text": "I told my friend she should embrace her mistakes. She gave me a hug immediately.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.4,
+    "is_known": 0.2,
+    "funniness": 2.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00eab",
+    "text": "Why did the computer go to therapy? Because it had trouble accepting cookies!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00feb",
+    "text": "Why did the smartphone go to therapy? It had issues with its firmware and couldn't process its own feelings.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af0104c",
+    "text": "I told my friend I had a job crushing cans. It was soda pressing, causing a real flattening in my career.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af01068",
+    "text": "Why was the timeline so calm during the chaos? Because it knew everything would eventually fall into place.",
+    "is_understandable": 0.4,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.333333333333333
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b54b62cdb59af00e78",
+    "text": "What's a PlayStation's favorite snack? Microchips and dip.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.0,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00ef0",
+    "text": "Why did the broken computer take a nap? It needed to restore its energy!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af01009",
+    "text": "How do printers apologize? They ream-orsefully admit their mistakes and promise better margins in the future.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.6,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00f92",
+    "text": "What's a sea turtle's favorite kind of photo? A shellfie on the reef!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af0104e",
+    "text": "Why was the division symbol so popular at the party? Because it could really break the ice.",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 1.5
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00f18",
+    "text": "Why couldn't the bicycle stand up by itself? It was two-tired.",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b14b62cdb59af00daf",
+    "text": "Why did the division sign apply for a job? It wanted to be the one splitting things up at the office.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.4,
+    "funniness": 3.25
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af0105e",
+    "text": "Why was the tile comedian a hit at parties? Because its jokes were always flooring.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f77",
+    "text": "Why did the fundamental particle go to school? To improve its field of knowledge and become a force to be reckoned with!",
+    "is_understandable": 0.6,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00eb0",
+    "text": "I downloaded an app that tells me where to find the best seafood. It's a real net gain.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e4a",
+    "text": "I tried to organize a strike at the calendar factory. Unfortunately, they said my days were numbered.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.75
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f53",
+    "text": "Why was the printer always upset? Because it kept jamming, even though it wasn't in a band!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b94b62cdb59af00fb2",
+    "text": "I asked my boss how our company's latest acquisition was going. He said, \"It's like marrying into a family with too many relatives вЂ“ suddenly you have more problems than you can count!\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 2.6
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b84b62cdb59af00f70",
+    "text": "Why don't mathematicians argue about division? Because it's pointless; they know they'll just end up going in circles.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.6,
+    "is_known": 0.2,
+    "funniness": 2.75
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b64b62cdb59af00ed6",
+    "text": "I told my friend I was strikingly good at lightning photography. He said, \"That's a flash in the pan.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 1.8000000000000003
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e33",
+    "text": "Why did the math book look so sad? Because it had too many problems to lower its spirits.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b44b62cdb59af00e47",
+    "text": "How do you catch a unique possibility? Unique up on it! How do you catch a tame possibility? The tame way!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b34b62cdb59af00e1a",
+    "text": "How do you throw a party for fundamental particles? You start with a big bang and let the forces do the rest!",
+    "is_understandable": 1,
+    "is_offensive": 0.2,
+    "is_a_joke": 1,
+    "is_known": 0.2,
+    "funniness": 2.4
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b24b62cdb59af00dc9",
+    "text": "Why did the mature computer go to therapy? Because it couldn't deal with its mid-life crisisвЂ”it had too many bytes of life left!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d62",
+    "text": "Firmware updates are like digital vegetables for your devices. They might not be fun, but they keep your system healthy!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.4,
+    "funniness": 2.8
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df603f4b62cdb59af00d64",
+    "text": "Why did the computer break up with the printer? Because the printer had too many issues and the relationship was always paper-thin.",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df60404b62cdb59af00d6f",
+    "text": "Why don't printers ever win at sports? Because they always seem to lose their paper chase!",
+    "is_understandable": 1,
+    "is_offensive": 0.0,
+    "is_a_joke": 1,
+    "is_known": 0.6,
+    "funniness": 3.4000000000000004
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bc4b62cdb59af01047",
+    "text": "Why did the clock get in trouble at work? Because it always struck at the wrong time!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b74b62cdb59af00ef7",
+    "text": "Why don't old video games ever feel down? Because they can always be restored from a previous save point!",
+    "is_understandable": 1,
+    "is_offensive": 0.4,
+    "is_a_joke": 0.6,
+    "is_known": 0.0,
+    "funniness": 2.2
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61bb4b62cdb59af0102c",
+    "text": "Why did the vampire become a computer technician? He was great at data recovery and restoring \"byte.\"",
+    "is_understandable": 0.8,
+    "is_offensive": 0.2,
+    "is_a_joke": 0.8,
+    "is_known": 0.0,
+    "funniness": 2.6000000000000005
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61ba4b62cdb59af00fcf",
+    "text": "What do you call a cat walking down the runway in Milan? A fash-purr-nista.",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.4,
+    "funniness": 3.0
+  },
+  {
+    "id": "65df603f4e39fe5f66190934:65df61b14b62cdb59af00d97",
+    "text": "Why did the belt get arrested? Because it held up a pair of pants!",
+    "is_understandable": 0.8,
+    "is_offensive": 0.0,
+    "is_a_joke": 0.8,
+    "is_known": 0.2,
+    "funniness": 3.25
+  }
+]
