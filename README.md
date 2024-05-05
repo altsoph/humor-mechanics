@@ -8,4 +8,4 @@ In this paper, we explore the generation of one-liner jokes through multi-step r
 
 ## Key statistics 
 
-![quality evaluation](https://github.com/altsoph/humor-mechanics/raw/master/hm_pic2.png)
+![quality evaluation](https://github.com/altsoph/humor-mechanics/raw/main/hm_pic2.png)
