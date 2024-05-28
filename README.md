@@ -1,6 +1,6 @@
 # TL;DR
 
-This is a supplementary repository for the paper "[Humor Mechanics: Advancing Humor Generation with Multistep Reasoning](https://arxiv.org/abs/#)," ICCC 2024.
+This is a supplementary repository for the paper "[Humor Mechanics: Advancing Humor Generation with Multistep Reasoning](https://arxiv.org/abs/2405.07280)," ICCC 2024.
 
 ## Abstract
 
